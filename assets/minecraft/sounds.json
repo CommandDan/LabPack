@@ -1,0 +1,623 @@
+{
+	"lab.music.warmup": {
+		"category": "master",
+		"sounds": [
+			{
+				"name":"lab/music/warmup",
+				"stream": true
+			}
+		]
+	},
+	
+	"lab.music.victory_1": {
+		"category": "master",
+		"sounds": [
+			{
+				"name":"lab/music/victory_1",
+				"stream": true
+			}
+		]
+	},
+	
+	"lab.music.victory_2": {
+		"category": "master",
+		"sounds": [
+			{
+				"name":"lab/music/victory_2",
+				"stream": true
+			}
+		]
+	},
+	
+	"lab.music.victory_3": {
+		"category": "master",
+		"sounds": [
+			{
+				"name":"lab/music/victory_3",
+				"stream": true
+			}
+		]
+	},
+	
+	"lab.speech.intro_1": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/intro_1"
+		]
+	},
+	
+	"lab.speech.intro_2": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/intro_2"
+		]
+	},
+	
+	"lab.speech.intro_3": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/intro_3"
+		]
+	},
+	
+	"lab.speech.intro_4": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/intro_4"
+		]
+	},
+	
+	"lab.speech.introend_1": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/introend_1"
+		]
+	},
+	
+	"lab.speech.introend_2": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/introend_2"
+		]
+	},
+	
+	"lab.speech.introend_3": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/introend_3"
+		]
+	},
+	
+	"lab.speech.game_balloonpop": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_balloonpop"
+		]
+	},
+	
+	"lab.speech.game_catastrophic": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_catastrophic"
+		]
+	},
+	
+	"lab.speech.game_crazypaint": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_crazypaint"
+		]
+	},
+	
+	"lab.speech.game_electricfloor": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_electricfloor"
+		]
+	},
+	
+	"lab.speech.game_goldrush": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_goldrush"
+		]
+	},
+	
+	"lab.speech.game_lasers": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_lasers"
+		]
+	},
+	
+	"lab.speech.game_masterchef": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_masterchef"
+		]
+	},
+	
+	"lab.speech.game_mazerunner": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_mazerunner"
+		]
+	},
+	
+	"lab.speech.game_motionsensors": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_motionsensors"
+		]
+	},
+	
+	"lab.speech.game_pigracing": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_pigracing"
+		]
+	},
+	
+	"lab.speech.game_printer": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_printer"
+		]
+	},
+	
+	"lab.speech.game_rocketrace": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_rocketrace"
+		]
+	},
+	
+	"lab.speech.game_shockmania": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_shockmania"
+		]
+	},
+	
+	"lab.speech.game_splegg": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_splegg"
+		]
+	},
+	
+	"lab.speech.game_whackamob": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_whackamob"
+		]
+	},
+	
+	"lab.speech.game_breakingblocks": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_breakingblocks"
+		]
+	},
+	
+	"lab.speech.game_dodgeball": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_dodgeball"
+		]
+	},
+	
+	"lab.speech.game_boatwars": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_boatwars"
+		]
+	},
+	
+	"lab.speech.game_scavenger": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_scavenger"
+		]
+	},
+	
+	"lab.speech.game_stopnshop": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_stopnshop"
+		]
+	},
+	
+	"lab.speech.game_snowman": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_snowman"
+		]
+	},
+	
+	"lab.speech.game_fight": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_fight"
+		]
+	},
+	
+	"lab.speech.game_superloot": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_superloot"
+		]
+	},
+	
+	"lab.speech.game_mobhunters": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_mobhunters"
+		]
+	},
+	
+	"lab.speech.game_luckycrates": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/game_luckycrates"
+		]
+	},
+	
+	"lab.speech.link_and": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/link_and"
+		]
+	},
+	
+	"lab.speech.midgame_1": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_1"
+		]
+	},
+	
+	"lab.speech.midgame_2": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_2"
+		]
+	},
+	
+	"lab.speech.midgame_3": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_3"
+		]
+	},
+	
+	"lab.speech.midgame_4": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_4"
+		]
+	},
+	
+	"lab.speech.midgame_5": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_5"
+		]
+	},
+	
+	"lab.speech.midgame_6": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_6"
+		]
+	},
+	
+	"lab.speech.midgame_7": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_7"
+		]
+	},
+	
+	"lab.speech.midgame_8": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_8"
+		]
+	},
+	
+	"lab.speech.midgame_9": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_9"
+		]
+	},
+	
+	"lab.speech.midgame_10": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_10"
+		]
+	},
+	
+	"lab.speech.midgame_11": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_11"
+		]
+	},
+	
+	"lab.speech.midgame_12": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_12"
+		]
+	},
+	
+	"lab.speech.midgame_13": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_13"
+		]
+	},
+	
+	"lab.speech.midgame_14": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_14"
+		]
+	},
+	
+	"lab.speech.midgame_15": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_15"
+		]
+	},
+	
+	"lab.speech.midgame_16": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_16"
+		]
+	},
+	
+	"lab.speech.midgame_17": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/midgame_17"
+		]
+	},
+	
+	"lab.speech.endgame_1": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_1"
+		]
+	},
+	
+	"lab.speech.endgame_2": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_2"
+		]
+	},
+	
+	"lab.speech.endgame_3": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_3"
+		]
+	},
+	
+	"lab.speech.endgame_4": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_4"
+		]
+	},
+	
+	"lab.speech.endgame_5": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_5"
+		]
+	},
+	
+	"lab.speech.endgame_6": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_6"
+		]
+	},
+	
+	"lab.speech.endgame_7": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_7"
+		]
+	},
+	
+	"lab.speech.endgame_8": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_8"
+		]
+	},
+	
+	"lab.speech.endgame_9": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_9"
+		]
+	},
+	
+	"lab.speech.endgame_10": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_10"
+		]
+	},
+	
+	"lab.speech.endgame_11": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_11"
+		]
+	},
+	
+	"lab.speech.endgame_12": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_12"
+		]
+	},
+	
+	"lab.speech.endgame_13": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_13"
+		]
+	},
+	
+	"lab.speech.endgame_14": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_14"
+		]
+	},
+	
+	"lab.speech.endgame_15": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_15"
+		]
+	},
+	
+	"lab.speech.endgame_16": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_16"
+		]
+	},
+	
+	"lab.speech.endgame_17": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_17"
+		]
+	},
+	
+	"lab.speech.endgame_18": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/endgame_18"
+		]
+	},
+	
+	"lab.speech.final_1": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_1"
+		]
+	},
+	
+	"lab.speech.final_2": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_2"
+		]
+	},
+	
+	"lab.speech.final_3": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_3"
+		]
+	},
+	
+	"lab.speech.final_4": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_4"
+		]
+	},
+	
+	"lab.speech.final_5": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_5"
+		]
+	},
+	
+	"lab.speech.final_6": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_6"
+		]
+	},
+	
+	"lab.speech.final_7": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_7"
+		]
+	},
+	
+	"lab.speech.final_8": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_8"
+		]
+	},
+	
+	"lab.speech.final_9": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_9"
+		]
+	},
+	
+	"lab.speech.final_10": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_10"
+		]
+	},
+	
+	"lab.speech.final_11": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_11"
+		]
+	},
+	
+	"lab.speech.final_12": {
+		"category": "master",
+		"sounds": [
+			"lab/speech/final_12"
+		]
+	},
+	
+	"lab.effects.error": {
+		"category": "master",
+		"sounds": [
+			"lab/effects/error"
+		]
+	},
+	
+	"lab.effects.exclaim": {
+		"category": "master",
+		"sounds": [
+			"lab/effects/exclaim"
+		]
+	},
+	
+	"lab.effects.notification": {
+		"category": "master",
+		"sounds": [
+			"lab/effects/notification"
+		]
+	}
+	
+}
